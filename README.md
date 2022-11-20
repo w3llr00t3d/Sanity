@@ -8,7 +8,7 @@ Paste the following code in: (note you may have to clear your existing mute list
 
     const delayMs = 500; // change this if you feel like its running too fast
 
-    const keywords = `    elon
+    const keywords = `elon
     el0n
     musk
     elno
