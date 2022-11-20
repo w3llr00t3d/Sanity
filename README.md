@@ -2,14 +2,9 @@
 Maintain sanity on the bird app
 
 Automation:
-
-
-
-    In case anyone wants to fully automate entering these in. I took @j6k4m8's snippet and expanded on it.
-
-        Visit https://twitter.com/settings/muted_keywords
-        Open your browser's dev tools (note: this does work in Chrome)
-        Paste the following code in:
+Visit https://twitter.com/settings/muted_keywords
+Open your browser's dev tools (note: this does work in Chrome)
+Paste the following code in:
 
     const delayMs = 500; // change this if you feel like its running too fast
 
