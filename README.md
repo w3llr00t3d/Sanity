@@ -2,9 +2,13 @@
 Maintain sanity on the bird app
 
 Automation:
-Visit https://twitter.com/settings/muted_keywords
-Open your browser's dev tools (note: this does work in Chrome)
-Paste the following code in: (note you may have to clear your existing mute list first)
+
+1. Visit https://twitter.com/settings/muted_keywords
+
+2. Open your browser's dev tools (Tested in Firefox and Chrome)
+
+3. Paste the following code in: (Note: You may have to clear your existing mute list first, as the script will choke on duplicate entries):```
+
 
     const delayMs = 500; // change this if you feel like its running too fast
 
@@ -199,5 +203,4 @@ Paste the following code in: (note you may have to clear your existing mute list
       addMutedKeyword(keyword);
       return delay();
     }, Promise.resolve());
-
 
