@@ -45,7 +45,7 @@ Paste the following code in: (note you may have to clear your existing mute list
     gun control
     democratic party
     merkel
-    hilllary clinton
+    hillary clinton
     republican
     trumpism
     leftist
