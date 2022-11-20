@@ -9,7 +9,7 @@ Automation:
 
 2. Open your browser's dev tools (Tested in Firefox and Chrome)
 
-3.Paste the following code in: (Note: You may have to clear your existing mute list first, as the script will choke on duplicate entries):
+3.Paste the following code in and press enter: (Note: Edit the list based on your needs first. You may have to clear your existing mute list, as the script will choke on duplicate entries):
 
 
     const delayMs = 500; // change this if you feel like its running too fast
