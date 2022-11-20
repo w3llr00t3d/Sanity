@@ -4,7 +4,7 @@ Maintain sanity on the bird app
 Automation:
 Visit https://twitter.com/settings/muted_keywords
 Open your browser's dev tools (note: this does work in Chrome)
-Paste the following code in:
+Paste the following code in: (note you may have to clear your existing mute list first)
 
     const delayMs = 500; // change this if you feel like its running too fast
 
