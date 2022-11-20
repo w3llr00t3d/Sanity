@@ -8,8 +8,7 @@ Paste the following code in: (note you may have to clear your existing mute list
 
     const delayMs = 500; // change this if you feel like its running too fast
 
-    const keywords = `leaving twitter
-    elon
+    const keywords = `    elon
     el0n
     musk
     elno
@@ -18,13 +17,7 @@ Paste the following code in: (note you may have to clear your existing mute list
     politics
     trump
     donald
-    fake news
-    make america great again
     covfefe
-    alt right
-    far right
-    right wing
-    left wing
     potus
     fascism
     nazis
@@ -37,15 +30,11 @@ Paste the following code in: (note you may have to clear your existing mute list
     biden
     putin
     donaldtrump
-    supreme court
     democrat
     republicans
     cuckservatives
     trudeau
-    gun control
-    democratic party
     merkel
-    hillary clinton
     republican
     trumpism
     leftist
@@ -53,19 +42,11 @@ Paste the following code in: (note you may have to clear your existing mute list
     dnc
     obamacare
     senator
-    kim yong un
     hillary
-    boris johnson
-    eric trump
     macron
     obama
     clinton
     erdogan
-    piers morgan
-    nigel farage
-    sean hannity
-    kim jong un
-    north korea
     pyongyang
     iraq
     iran
@@ -84,22 +65,12 @@ Paste the following code in: (note you may have to clear your existing mute list
     ww3
     kardashians
     kardashian
-    kylie jenner
-    jake paul
-    kendall jenner
-    kris jenner
     msnbc
     nbc
-    fox news
     buzzfeed
-    daily mail
     cnn
     breitbart
-    huffington post
     breitbartnews
-    washington post
-    ny times
-    new york times
     facebook
     9gag
     techcrunch
@@ -113,44 +84,16 @@ Paste the following code in: (note you may have to clear your existing mute list
     sexism
     feminist
     bigotry
-    safe space
     genders
-    toxic masculinity
     mansplaining
     mansplain
     misogyny
     manspreading
-    mens rights
-    white privilege
-    white male
-    white man
-    white boy
-    white girl
-    white woman
-    white women
     oppressed
     neoliberal
-    white genocide
     microaggression
     oppression
     nationalist
-    black man
-    black men
-    black guy
-    black dude
-    black dudes
-    black woman
-    black women
-    black girl
-    black girls
-    black power
-    hate speech
-    asian man
-    asian men
-    asian guy
-    asian dude
-    asian woman
-    asian women
     manarchism
     cisplaining
     intersexual
@@ -160,12 +103,8 @@ Paste the following code in: (note you may have to clear your existing mute list
     transgender
     snowflake
     cisgender
-    all lives matter
-    black lives matter
     blm
     racism
-    hormone treatment
-    hormone therapy
     privilege
     triggered
     cuck
@@ -180,11 +119,9 @@ Paste the following code in: (note you may have to clear your existing mute list
     ageism
     harassment
     womansplain
-    white supremacy
     microaggressor
     discrimination
     ablesplaining
-    white men
     vegan
     cisethnic
     equality
@@ -192,7 +129,7 @@ Paste the following code in: (note you may have to clear your existing mute list
     bombed
     died
     dies
-    dead    
+    dead
     suicide
     murder
     murders
@@ -204,7 +141,6 @@ Paste the following code in: (note you may have to clear your existing mute list
     killing
     raped
     rape
-    knife attack
     stabbing
     stabbed
     covid
@@ -222,7 +158,6 @@ Paste the following code in: (note you may have to clear your existing mute list
     allkpop
     fortnite
     minecraft
-    call of duty
     ActivityTweet
     generic_activity_highlights
     generic_activity_momentsbreaking
