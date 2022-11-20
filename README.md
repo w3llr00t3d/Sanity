@@ -1,6 +1,8 @@
 # Sanity
 Maintain sanity on the bird app
 
+Right now the script below only supports single words. You must enter anything with multiple words manually for now.
+
 Automation:
 
 1. Visit https://twitter.com/settings/muted_keywords
