@@ -145,7 +145,6 @@ Paste the following code in: (note you may have to clear your existing mute list
     stabbed
     covid
     coronavirus
-    covid-19
     antivaxxers
     moderna
     pfizer
