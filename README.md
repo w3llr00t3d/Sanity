@@ -14,8 +14,10 @@ Automation:
 
     const delayMs = 500; // change this if you feel like its running too fast
 
-    const keywords = `Israel
+    const keywords = `🇮🇱
+    Israel
     Israeli
+    🇵🇸
     Palestine
     Palestinian
     Gaza
@@ -34,6 +36,7 @@ Automation:
     covfefe
     potus
     fascism
+    🇺🇦
     nazis
     liberals
     fascist
