@@ -14,7 +14,15 @@ Automation:
 
     const delayMs = 500; // change this if you feel like its running too fast
 
-    const keywords = `elon
+    const keywords = `Israel
+    Israeli
+    Palestine
+    Palestinian
+    Gaza
+    Tel Aviv
+    Hamas
+    IDF
+    Netanyahuelon
     el0n
     musk
     elno
