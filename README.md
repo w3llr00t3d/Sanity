@@ -24,7 +24,8 @@ Automation:
     Tel Aviv
     Hamas
     IDF
-    Netanyahuelon
+    Netanyahu
+    elon
     el0n
     musk
     elno
